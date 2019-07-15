@@ -106,5 +106,8 @@
     });
 </script>
 
-@* Note if you miss the tboyd and t0head in table then jquery data table may not work properly
-    so make sure the tbody and head are placed inside of table element to avoid any unforeseen bugs *@
+<div class="alert alert-info">
+    <strong> Note ! </strong> if you miss the tbody and thead element in table then jquery data table may not work properly
+    so make sure the tbody and head are placed inside of table element to avoid any unforeseen bugs 
+</div>
+
